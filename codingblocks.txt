@@ -1,0 +1,2 @@
+How to add code in git hub
+without going to github application
